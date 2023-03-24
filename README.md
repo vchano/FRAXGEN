@@ -1,4 +1,5 @@
 # FRAXGEN
-RNA-Sequencing of ash in response to ADB
+Transcriptomics of Ash dieback: response of Fraxinus excelsior to the infection by Hymenoscyphus fraxineus.
 
-Under construction!
+
+This repository is under!
