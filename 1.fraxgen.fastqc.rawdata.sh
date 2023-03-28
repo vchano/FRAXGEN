@@ -35,6 +35,7 @@
 
 # Load modules
 
+module purge
 module load fastqc/0.11.4
 module load anaconda3/2020.11
 
